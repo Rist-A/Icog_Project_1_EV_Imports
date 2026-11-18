@@ -1,0 +1,8 @@
+source_id,source_name,url,source_type,used_for,reliability_note,collection_date,robots_allowed,result_note
+S01,Adey Market EV listings,https://adey-market.com/categories/cars?type=cars_electric,marketplace,vehicle visibility,Listings are a proxy only - not registrations or sales,2026-11-17,None,
+S02,Gezat Electric model catalogue,https://ev.gezat.et/,distributor,vehicle visibility,Code reads only the pages robots.txt allows; the catalogue under /cars is read by hand in a browser,2026-11-17,None,
+S03,Landin BYD parts,https://www.landinparts.com/byd/,supplier (aftermarket),"parts, fitment and prices",Aftermarket supplier; prices in RMB; single-source price,2026-11-17,None,
+S04,BYD Seagull part-number list (CQSW),https://www.cqswautoparts.com/part-numbers-for-byd-seagull-spare-parts,supplier part-number list,part numbers and fitment,Supplier list; no prices; cross-check against a second source,2026-11-17,None,
+S05,Toyota bZ4X catalogue,https://www.toyota-spare-parts.com/toyota-cars/BZ4X,catalogue,not used,bZ4X was not one of the three selected vehicles,,not checked yet,not collected yet
+S06,Volkswagen ID.4 catalogue (exist.ae),https://exist.ae/catalog/cars/volkswagen/id-4,retailer,"parts, fitment and prices",Dubai retailer; prices in AED; fitment shown as 'may fit - check by VIN',2026-11-17,None,
+S07,NHTSA complaints API,https://api.nhtsa.gov/complaints/complaintsByVehicle,government,failure evidence,"Mainly US-market vehicles; complaints are component-level, not part-level",2026-11-17,None,HTTP error - nothing saved

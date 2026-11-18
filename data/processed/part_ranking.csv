@@ -1,0 +1,11 @@
+part,demand,compatibility,sourcing,confidence,score,vehicles_with_fitment_evidence,coverage_pct,rank
+Brake pads,0.275,0.333,0.333,0.333,0.31,1,17.0,1
+Brake discs,0.275,0.333,0.32,0.333,0.307,1,17.0,2
+Fenders/body panels,0.333,0.333,0.0,0.333,0.267,1,17.0,3
+Tail lights,0.097,0.333,0.286,0.333,0.229,1,17.0,4
+Side mirrors,0.106,0.333,0.234,0.333,0.222,1,17.0,5
+Headlights,0.097,0.333,0.209,0.333,0.214,1,17.0,6
+Shock absorbers,0.025,0.333,0.307,0.333,0.205,1,17.0,7
+Bumpers,0.0,0.333,0.292,0.333,0.192,1,17.0,8
+Wiper blades,0.106,0.333,0.0,0.306,0.172,1,11.0,9
+Cabin-air filters,0.0,0.0,0.0,0.111,0.015,0,6.0,10

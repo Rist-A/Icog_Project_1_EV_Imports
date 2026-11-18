@@ -1,0 +1,26 @@
+{
+  "weights_set": {
+    "demand": 0.3,
+    "scarcity": 0.25,
+    "compatibility": 0.2,
+    "sourcing": 0.15,
+    "confidence": 0.1
+  },
+  "weights_used": {
+    "demand": 0.39999999999999997,
+    "compatibility": 0.26666666666666666,
+    "sourcing": 0.19999999999999998,
+    "confidence": 0.13333333333333333
+  },
+  "factors_dropped": [
+    "scarcity"
+  ],
+  "compat_score": {
+    "confirmed_2_sources": 1.0,
+    "listed_in_2_sources_codes_differ": 0.8,
+    "confirmed_1_source": 0.6,
+    "possible_fit": 0.3,
+    "not_found": 0.0
+  },
+  "price_unit": "RMB"
+}

@@ -1,0 +1,21 @@
+source_id,url,collection_date,robots_allowed,http_status,snapshot_file,note
+S01,https://adey-market.com/categories/cars?type=cars_electric,2026-11-17,False,nan,,SKIPPED - robots.txt disallows this URL or could not be read
+S02,https://ev.gezat.et/,2026-11-17,True,200.0,data/raw/html_snapshots/S02_https_ev_gezat_et_2026-11-17.html,
+S02,https://ev.gezat.et/sitemap.xml,2026-11-17,True,200.0,data/raw/html_snapshots/S02_https_ev_gezat_et_sitemap_xml_2026-11-17.html,
+S01,https://adey-market.com/categories/cars?type=cars_electric,2026-11-17,None,200,data/raw/html_snapshots/S01_https_adey_market_com_categories_cars_type_cars_electric_2026-11-17.html,
+S01,https://adey-market.com/categories/cars?type=cars_electric,2026-11-17,None,200,data/raw/html_snapshots/S01_https_adey_market_com_categories_cars_type_cars_electric_page_2_2026-11-17.html,
+S01,https://adey-market.com/categories/cars?type=cars_electric,2026-11-17,None,200,data/raw/html_snapshots/S01_https_adey_market_com_categories_cars_type_cars_electric_page_3_2026-11-17.html,
+S01,https://adey-market.com/categories/cars?type=cars_electric,2026-11-17,None,200,data/raw/html_snapshots/S01_https_adey_market_com_categories_cars_type_cars_electric_page_4_2026-11-17.html,
+S01,https://adey-market.com/categories/cars?type=cars_electric,2026-11-17,None,200,data/raw/html_snapshots/S01_https_adey_market_com_categories_cars_type_cars_electric_page_5_2026-11-17.html,
+S01,https://adey-market.com/categories/cars?type=cars_electric,2026-11-17,None,200,data/raw/html_snapshots/S01_https_adey_market_com_categories_cars_type_cars_electric_page_6_2026-11-17.html,
+S01,https://adey-market.com/categories/cars?type=cars_electric,2026-11-17,None,200,data/raw/html_snapshots/S01_https_adey_market_com_categories_cars_type_cars_electric_page_7_2026-11-17.html,
+S01,https://adey-market.com/categories/cars?type=cars_electric,2026-11-17,None,200,data/raw/html_snapshots/S01_https_adey_market_com_categories_cars_type_cars_electric_page_8_2026-11-17.html,
+S01,https://adey-market.com/categories/cars?type=cars_electric,2026-11-17,None,200,data/raw/html_snapshots/S01_https_adey_market_com_categories_cars_type_cars_electric_page_9_2026-11-17.html,
+S01,https://adey-market.com/categories/cars?type=cars_electric,2026-11-17,None,200,data/raw/html_snapshots/S01_https_adey_market_com_categories_cars_type_cars_electric_page_10_2026-11-17.html,
+S02,https://ev.gezat.et/,2026-11-17,None,200,data/raw/html_snapshots/S02_https_ev_gezat_et_2026-11-17.html,
+S02,https://ev.gezat.et/sitemap.xml,2026-11-17,None,200,data/raw/html_snapshots/S02_https_ev_gezat_et_sitemap_xml_2026-11-17.html,
+S04,https://www.cqswautoparts.com/part-numbers-for-byd-seagull-spare-parts,2026-11-17,None,200,data/raw/html_snapshots/S04_https_www_cqswautoparts_com_part_numbers_for_byd_seagull_spare_parts_2026-11-17.html,
+S03,https://www.landinparts.com/byd/,2026-11-17,None,200,data/raw/html_snapshots/S03_https_www_landinparts_com_byd_2026-11-17.html,
+S06,https://exist.ae/catalog/cars/volkswagen/id-4,2026-11-17,None,200,data/raw/html_snapshots/S06_https_exist_ae_catalog_cars_volkswagen_id_4_2026-11-17.html,
+S07,https://api.nhtsa.gov/complaints/complaintsByVehicle,2026-11-17,None,400,,HTTP error - nothing saved
+S07,https://api.nhtsa.gov/complaints/complaintsByVehicle,2026-11-17,None,200,data/raw/nhtsa/S07_https_api_nhtsa_gov_complaints_complaintsByVehicle_make_Volkswagen_model_ID_4_mo_2026-11-17.json,

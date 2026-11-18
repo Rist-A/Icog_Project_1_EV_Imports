@@ -1,0 +1,4 @@
+step,detail,rows_affected
+currency,price currencies found: ['RMB']; USD calculated for 0 rows,
+judgement,wear_item is analyst judgement; blank in this many rows,30.0
+judgement,local_sellers is your own check; blank in this many rows,30.0

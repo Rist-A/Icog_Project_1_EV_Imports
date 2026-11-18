@@ -1,0 +1,31 @@
+vehicle,part,demand,scarcity,compatibility,sourcing,confidence,score
+BYD Seagull,Brake discs,,,1.0,0.961,0.667,0.548
+BYD Seagull,Brake pads,,,1.0,1.0,0.667,0.556
+BYD Seagull,Bumpers,,,1.0,0.876,0.667,0.531
+BYD Seagull,Cabin-air filters,,,0.0,,0.0,0.0
+BYD Seagull,Fenders/body panels,,,1.0,0.0,0.667,0.356
+BYD Seagull,Headlights,,,1.0,0.627,0.667,0.481
+BYD Seagull,Shock absorbers,,,1.0,0.922,0.667,0.54
+BYD Seagull,Side mirrors,,,1.0,0.702,0.667,0.496
+BYD Seagull,Tail lights,,,1.0,0.859,0.667,0.527
+BYD Seagull,Wiper blades,,,1.0,,0.583,0.344
+BYD Yuan Up,Brake discs,,,0.0,,0.0,0.0
+BYD Yuan Up,Brake pads,,,0.0,,0.0,0.0
+BYD Yuan Up,Bumpers,,,0.0,,0.0,0.0
+BYD Yuan Up,Cabin-air filters,,,0.0,,0.0,0.0
+BYD Yuan Up,Fenders/body panels,,,0.0,,0.0,0.0
+BYD Yuan Up,Headlights,,,0.0,,0.0,0.0
+BYD Yuan Up,Shock absorbers,,,0.0,,0.0,0.0
+BYD Yuan Up,Side mirrors,,,0.0,,0.0,0.0
+BYD Yuan Up,Tail lights,,,0.0,,0.0,0.0
+BYD Yuan Up,Wiper blades,,,0.0,,0.0,0.0
+Volkswagen ID.4/ID.6,Brake discs,0.825,,0.0,,0.333,0.374
+Volkswagen ID.4/ID.6,Brake pads,0.825,,0.0,,0.333,0.374
+Volkswagen ID.4/ID.6,Bumpers,0.0,,0.0,,0.333,0.044
+Volkswagen ID.4/ID.6,Cabin-air filters,0.0,,0.0,,0.333,0.044
+Volkswagen ID.4/ID.6,Fenders/body panels,1.0,,0.0,,0.333,0.444
+Volkswagen ID.4/ID.6,Headlights,0.292,,0.0,,0.333,0.161
+Volkswagen ID.4/ID.6,Shock absorbers,0.075,,0.0,,0.333,0.074
+Volkswagen ID.4/ID.6,Side mirrors,0.317,,0.0,,0.333,0.171
+Volkswagen ID.4/ID.6,Tail lights,0.292,,0.0,,0.333,0.161
+Volkswagen ID.4/ID.6,Wiper blades,0.317,,0.0,,0.333,0.171

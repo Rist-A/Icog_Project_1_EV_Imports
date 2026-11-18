@@ -1,0 +1,6 @@
+vehicle,gezat_listed,gezat_evidence_url,gezat_check_date,gezat_note,adey_manual_count,adey_manual_date,parts_sources_found,parts_sources_note
+BYD Seagull,,,,,,,Landin;CQSW,two sources can cross-check OE codes
+BYD Yuan Up,,,,,,,,not in Landin's model list; not in the CQSW Seagull list
+Changan Benben E-Star,,,,,,,,no source in the pack
+Toyota bZ4X,,,,,,,Toyota catalogue,bZ4X only; site says it cannot take orders
+Volkswagen ID.4/ID.6,,,,,,,"exist.ae (ID.4 only, may-fit)",fitment shown as 'may fit - check by VIN'; no ID.6

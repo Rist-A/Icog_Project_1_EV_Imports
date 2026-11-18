@@ -1,0 +1,6 @@
+part,demand,compatibility,sourcing,confidence,score,vehicles_with_fitment_evidence,coverage_pct,rank
+Brake pads,0.275,0.333,0.333,0.333,0.31,1,17.0,1
+Brake discs,0.275,0.333,0.32,0.333,0.307,1,17.0,2
+Fenders/body panels,0.333,0.333,0.0,0.333,0.267,1,17.0,3
+Tail lights,0.097,0.333,0.286,0.333,0.229,1,17.0,4
+Side mirrors,0.106,0.333,0.234,0.333,0.222,1,17.0,5

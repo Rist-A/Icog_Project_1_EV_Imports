@@ -1,0 +1,11 @@
+part,Base,Equal weights,Demand-heavy,Scarcity-heavy,Sourcing-heavy,Compatibility-heavy
+Brake pads,1,1,1,1,1,1
+Brake discs,2,2,2,2,2,2
+Fenders/body panels,3,5,3,3,8,3
+Tail lights,4,3,4,4,3,4
+Side mirrors,5,4,5,5,6,5
+Headlights,6,7,6,6,7,6
+Shock absorbers,7,6,8,7,4,7
+Bumpers,8,8,9,8,5,8
+Wiper blades,9,9,7,9,9,9
+Cabin-air filters,10,10,10,10,10,10
