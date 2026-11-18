@@ -1,21 +1,5 @@
 #!/usr/bin/env python3
-"""
-run_all.py - run the whole project with ONE command.
 
-    python run_all.py --email you@example.com          (Windows: py run_all.py --email you@example.com)
-
-It runs the notebooks in order, without opening Jupyter:
-    Wubrist_Alemu_00a_select_vehicles  ->  _00_collect_evidence  ->  _01_clean_data  ->  _02_scoring_ranking
-
-Options
-    --email ADDRESS     your real email; sent to websites so their owners can contact you (needed for the web steps)
-    --skip-collect      offline mode: no website is contacted. Step 00 is skipped, and step 00a uses only the saved
-                        page copies and your hand-entered inputs in data/raw/
-    --only 00a|00|01|02 run just one step
-    --keep-going        continue to the next step even if one step fails
-
-Nothing is changed in the notebooks: this script reads their code cells and runs them in order.
-"""
 import argparse
 import ast
 import json
